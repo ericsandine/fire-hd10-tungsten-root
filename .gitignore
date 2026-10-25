@@ -1,0 +1,6 @@
+GhostLock/
+ghostlock-*/
+ndk*/
+*.apk
+device-dump/
+.DS_Store
